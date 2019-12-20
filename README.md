@@ -29,5 +29,7 @@ i always try to improve my skill but always distract,so i am maintaining my dail
   
   - [ ] learn one lesson from https://github.com/mahfuz05/architect-awesome/blob/master/README.md
   
+  - [ ] one problem from https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges
+  
   Enjoy yourself 
 ===============================================================================================
