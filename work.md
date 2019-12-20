@@ -20,4 +20,21 @@
 - [ ] 17. address to zone
 - [ ] 18. clean slate
 - [ ] 19. API
-- [ ] 20. bd optimization
+- [ ] 20. DB optimization
+- [ ] 21. ESB Publish
+- [ ] 22. Pickup merchantwise & SMS
+- [ ] 23. Delivery SMS
+- [ ] 24. Filter multiple hub in report ??
+- [ ] 25. notice board merchant panel
+- [ ] 26. merchant bank list not loading while edit
+- [ ] 27. Agent report,export, attandance
+- [ ] 28. cash callection in return/ partial delivery ??
+- [ ] 29. document order price collection
+- [ ] 30. multiple hub asssign to a user
+- [ ] 31. on deman flow, return flow
+- [ ] 32. Activity log improve, edit log improvement
+- [ ] 33. merchant active, return, on progress order list
+- [ ] 34. ops panel report
+- [ ] 35. return receive by D consignment
+- [ ] 36. isd order scan to osd
+- [ ] 37. ops panel report
