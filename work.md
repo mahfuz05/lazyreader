@@ -1,8 +1,8 @@
 ## bugs need to fixed
 
 
-- [ ] 1. return on hold , then hub change
-- [ ] 2. store empty address bug
+- [x] 1. return on hold , then hub change
+- [x] 2. store empty address bug
 - [ ] 3. multiple time add consignment in a run
 - [ ] 4. Export time out bug
 - [ ] 5. OSD return flow
@@ -10,7 +10,7 @@
 - [ ] 7. full cycle test including accounts
 - [ ] 8. 1% cod bug
 - [ ] 9. on deman oh hold reassign
-- [ ] 10. return ti inventory and revert option
+- [ ] 10. return to inventory and revert option
 - [ ] 11. on demand export
 - [ ] 12. collected amount shuld 0 in return
 - [ ] 13. same hub delivery and return
