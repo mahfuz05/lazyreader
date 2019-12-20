@@ -38,5 +38,5 @@
 - [ ] 35. return receive by D consignment
 - [ ] 36. isd order scan to osd
 - [ ] 37. ops panel report
-- [ ] 38. accounts positive negative bug fix
-- [ ] 37. accounts prepaid invoice issue
+- [x] 38. accounts positive negative bug fix
+- [x] 37. accounts prepaid invoice issue and pagination bug fix in prepaid invoice
