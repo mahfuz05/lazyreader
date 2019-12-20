@@ -4,9 +4,9 @@ i always try to improve my skill but always distract,so i am maintaining my dail
 
 
 ----------------------------------------
-##day 1 (dec 20 2019)
+## day 1 (dec 20 2019)
 
-todays list
+### todays list
 - [ ] solve an algorithom and commit into oneproblemperday (fizz buzz)
 
  problem link https://medium.com/better-programming/the-software-engineering-study-guide-bac25b8b61eb
@@ -17,7 +17,7 @@ todays list
  
  - [ ] learn a lessson from cubernatics/devops class 
  
- - [ ] learn a lessson from golang class 
+ - [ ] learn a lessson from golang class https://www.udemy.com/course/go-the-complete-developers-guide/
  
  - [ ] learn a lessson from udeme  class https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews
  
@@ -30,3 +30,4 @@ todays list
   - [ ] learn one lesson from https://github.com/mahfuz05/architect-awesome/blob/master/README.md
   
   Enjoy yourself 
+===============================================================================================
