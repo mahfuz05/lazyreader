@@ -3,7 +3,7 @@
 
 - [x] 1. return on hold , then hub change
 - [x] 2. store empty address bug
-- [ ] 3. multiple time add consignment in a run
+- [x] 3. multiple time add consignment in a run
 - [ ] 4. Export time out bug
 - [ ] 5. OSD return flow
 - [ ] 6. Issue resulation (return -> on hold, delivery-> price change,oh hold, return)
