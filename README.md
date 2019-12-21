@@ -33,6 +33,11 @@ i always try to improve my skill but always distract,so i am maintaining my dail
   
   Enjoy yourself 
 ===============================================================================================
-
+### medium 1 Visitor pattern
 https://medium.com/@felipedutratine/visitor-design-pattern-in-golang-3c142a12945a
+
 In object-oriented programming and software engineering, the visitor design pattern is a way of separating an algorithm from an object structure on which it operates. A practical result of this separation is the ability to add new operations to existing object structures without modifying the structures. It is one way to follow the open/closed principle.
+
+### meduim dynamic programming
+Dynamic Programming: An induction approach
+https://medium.com/@tiagot/dynamic-programming-an-induction-approach-b5c5e73c4a19
