@@ -11,8 +11,8 @@
 - [x] 8. 1% cod bug
 - [x] 9. on deman oh hold reassign
 - [ ] 10. return to inventory and revert option
-- [ ] 11. on demand export
-- [ ] 12. collected amount shuld 0 in return
+- [x] 11. on demand export
+- [x] 12. collected amount shuld 0 in return
 - [ ] 13. same hub delivery and return
 - [ ] 14. exchange status
 - [ ] 15. agent id in agent list
