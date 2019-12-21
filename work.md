@@ -8,8 +8,8 @@
 - [ ] 5. OSD return flow
 - [ ] 6. Issue resulation (return -> on hold, delivery-> price change,oh hold, return)
 - [ ] 7. full cycle test including accounts
-- [ ] 8. 1% cod bug
-- [ ] 9. on deman oh hold reassign
+- [x] 8. 1% cod bug
+- [x] 9. on deman oh hold reassign
 - [ ] 10. return to inventory and revert option
 - [ ] 11. on demand export
 - [ ] 12. collected amount shuld 0 in return
