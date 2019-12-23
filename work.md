@@ -39,4 +39,6 @@
 - [ ] 36. isd order scan to osd
 - [ ] 37. ops panel report
 - [x] 38. accounts positive negative bug fix
-- [x] 37. accounts prepaid invoice issue and pagination bug fix in prepaid invoice
+- [x] 39. accounts prepaid invoice issue and pagination bug fix in prepaid invoice
+- [ ] 40. ops bulk order update
+- [ ] 41. notifications and zend desk issue update
