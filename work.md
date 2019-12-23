@@ -10,10 +10,10 @@
 - [ ] 7. full cycle test including accounts
 - [x] 8. 1% cod bug
 - [x] 9. on deman oh hold reassign
-- [ ] 10. return to inventory and revert option
+- [x] 10. return to inventory and revert option
 - [x] 11. on demand export
 - [x] 12. collected amount shuld 0 in return
-- [ ] 13. same hub delivery and return
+- [x] 13. same hub delivery and return
 - [ ] 14. exchange status
 - [ ] 15. agent id in agent list
 - [ ] 16. print bulk while hub change
@@ -41,4 +41,4 @@
 - [x] 38. accounts positive negative bug fix
 - [x] 39. accounts prepaid invoice issue and pagination bug fix in prepaid invoice
 - [ ] 40. ops bulk order update
-- [ ] 41. notifications and zend desk issue update
+- [x] 41. notifications and zend desk issue update
