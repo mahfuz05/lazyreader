@@ -15,7 +15,7 @@
 - [x] 12. collected amount shuld 0 in return
 - [x] 13. same hub delivery and return
 - [x] 14. exchange status
-- [ ] 15. agent id in agent list
+- [x] 15. agent id in agent list
 - [ ] 16. print bulk while hub change
 - [ ] 17. address to zone
 - [ ] 18. clean slate
