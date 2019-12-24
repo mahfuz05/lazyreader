@@ -42,3 +42,4 @@
 - [x] 39. accounts prepaid invoice issue and pagination bug fix in prepaid invoice
 - [ ] 40. ops bulk order update
 - [x] 41. notifications and zend desk issue update
+- [ ] 42. exchange should and return invoice , show in list, edit for orders tab, show on invoice
