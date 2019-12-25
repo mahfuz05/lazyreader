@@ -43,6 +43,6 @@
 - [ ] 40. ops bulk order update
 - [x] 41. notifications and zend desk issue update
 - [ ] 42. exchange should and return invoice , show in list, edit for orders tab, show on invoice
-- [ ] 43. consignment id duplicate problem DWEA1912199VJY, need to change format
-- [ ] 44. invoice id duplicate problem DWEA1912199VJY, need to change format
+- [x] 43. consignment id duplicate problem DWEA1912199VJY, need to change format
+- [x] 44. invoice id duplicate problem DWEA1912199VJY, need to change format
 
