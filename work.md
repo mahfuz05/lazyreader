@@ -45,4 +45,5 @@
 - [ ] 42. exchange should and return invoice , show in list, edit for orders tab, show on invoice
 - [x] 43. consignment id duplicate problem DWEA1912199VJY, need to change format
 - [x] 44. invoice id duplicate problem DWEA1912199VJY, need to change format
+- [ ] 45. same name merchant
 
