@@ -41,3 +41,5 @@ In object-oriented programming and software engineering, the visitor design patt
 ### meduim dynamic programming
 Dynamic Programming: An induction approach
 https://medium.com/@tiagot/dynamic-programming-an-induction-approach-b5c5e73c4a19
+
+https://medium.com/trick-the-interviwer/bit-tricks-577ebb2f1a8b
