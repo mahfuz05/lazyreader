@@ -31,6 +31,8 @@ i always try to improve my skill but always distract,so i am maintaining my dail
   
   - [ ] one problem from https://www.hackerrank.com/interview/interview-preparation-kit/warmup/challenges
   
+  - [ ] https://github.com/donnemartin/system-design-primer
+  
   Enjoy yourself 
 ===============================================================================================
 ### medium 1 Visitor pattern
